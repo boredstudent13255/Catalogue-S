@@ -5,6 +5,10 @@
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+body {
+  background-color: #cccccc;
+  background-image: linear-gradient(white, black);
+}
 #logo-layer {
   display: flex;
   border: 1px solid black;
