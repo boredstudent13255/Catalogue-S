@@ -14,12 +14,10 @@ body {
   border: 1px solid black;
 }
 #systemlogoL {
-  height: 50px;
   border: 1px solid red;
   width: 50%
 }
 #systemlogoR {
-  height: 50px;
   border: 1px solid red;
   width: 50%
 }
