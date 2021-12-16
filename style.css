@@ -10,15 +10,10 @@ body {
   background-size: cover;
 }
 #logo-layer {
-    border: 1px solid black;
-    overflow: hidden; /* add this to contain floated children */
+  display: flex;
+  border: 1px solid black;
 }
 #systemlogoL {
-    width: 50%;
-    float:left; /* add this */
-    border: 1px solid red;
 }
 #systemlogoR {
-    border: 1px solid green;
-    float: left; /* add this */
 }
