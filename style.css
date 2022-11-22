@@ -16,3 +16,9 @@ img {
   border-color: black;
   border-width: 2px;
 }
+#logo:link {
+  text-color: black;
+}
+#logo:visited {
+  text-color: black;
+}
