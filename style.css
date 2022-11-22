@@ -16,9 +16,9 @@ img {
   border-color: 4F4F4F;
   border-width: 2px;
 }
-#logo:link {
+a:link {
   text-color: black;
 }
-#logo:visited {
+a:visited {
   text-color: black;
 }
