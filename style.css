@@ -22,3 +22,7 @@ a:link {
 a:visited {
   text-color: black;
 }
+@font-face {
+  font-family: kosugi-maru;
+  src: url(KosugiMaru-Regular.ttf);
+}
