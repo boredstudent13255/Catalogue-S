@@ -11,9 +11,9 @@ body {
 img {
 }
 #boxart {
-  border-style: dashed;
+  border-style: solid;
   border-radius: 8px;
-  border-color: black;
+  border-color: dark-gray;
   border-width: 2px;
 }
 #logo:link {
