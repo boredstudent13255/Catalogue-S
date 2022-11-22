@@ -9,5 +9,9 @@ body {
   background-color: #D385FF;
 }
 img {
- border-radius: 8px;   
+}
+boxart {
+ border-style: dashed;
+ border-radius: 8px;
+
 }
