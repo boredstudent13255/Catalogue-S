@@ -4,6 +4,7 @@
     left: 50%;
     -webkit-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
+    border-radius: 12px;
 }
 body {
   background-color: #D385FF;
