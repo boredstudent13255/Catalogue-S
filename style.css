@@ -17,12 +17,16 @@ img {
   border-color: 4F4F4F;
   border-width: 2px;
 }
-a:link {
-  text-color: black;
+a {
+    text-decoration: none;
 }
-a:visited {
-  text-color: black;
+a:link, a:visited {
+    color: black;
 }
+a:hover {
+    color: white;
+}
+
 @font-face {
   font-family: kosugi-maru;
   src: url(KosugiMaru-Regular.ttf);
