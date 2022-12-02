@@ -1,2 +1,2 @@
-# oldGamesOnline
-Host an emulator and a set of games online
+# Catalogue S
+The simpler games I own original copies of, embedded in a browser.
